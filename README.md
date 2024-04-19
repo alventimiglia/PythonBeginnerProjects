@@ -6,6 +6,10 @@ This repository contains many of the basic projects with Python.
 
 This project was completed to help understand parent and child classes better.
 
+## footballMadlib
+
+This project was a very basic project completed to learn about user input, variables, and f-strings. It's a fun twist on the traditional madlib in order to generate a football transfer rumor.
+
 ## guessNumberGame
 
 This project was used to showcase the random library. It utilizes some of the basic principles of Python, showcasing a while loop and if statements.
