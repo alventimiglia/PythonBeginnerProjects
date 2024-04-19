@@ -1,0 +1,10 @@
+club1 = input("Football club: ")
+player1 = input("Football player: ")
+club2 = input("Football club: ")
+number = input("Number: ")
+noun = input("Plural Noun: ")
+
+madlib = f"Today, we've just learned that {club1} is interested in signing {player1} from \
+{club2} for a fee of {number} million euros. {player1} will bring a lot of {noun} to the club."
+
+print(madlib)
