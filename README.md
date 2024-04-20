@@ -17,3 +17,7 @@ This project was used to showcase the random library. It utilizes some of the ba
 ## hangman
 
 This project was created to replicate the game hangman. It uses the random library and the string library to allow the user to play the game. Although not added to this repo, there is a file referenced (from words import words) which contains a list of possible words that can be used in the game.
+
+## medicalNoteTemplate
+
+This project was very similar to the footballMadlib project, but modified to match a real world use case - to help a medical provider write a patient note.
