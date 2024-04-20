@@ -1,0 +1,24 @@
+#Making a medical notes template
+initial = input("Patient Initials: ")
+initials = initial.upper()
+
+reason_for_visit = input("Patient's reason for visit: ")
+symptoms = input("Patient's symptoms: ")
+medical_history = input("Patient's medical history (separate with commas): ")
+medications = input("Patient's medications (separate with comma): ")
+allergies = input("Patient's allergies (separate with comma): ")
+diagnosis = input("Patient's diagnosis from visit: ")
+treatment_plan = input("Patient's treatment plan from visit: ")
+return_date = input("Patient's instructed return date (if none indicated please put next scheduled visit): ")
+
+note = (f"Patient {initials} was seen today for {reason_for_visit}.\n"
+        f"{initials} came to the office today with the following complaints/symptoms: {symptoms}.\n"
+        f"Pertinent medical history: {medical_history} \n"
+        f"Medication list: {medications} \n"
+        f"Allergies: {allergies} \n"
+        f"Upon further evaluation with {initials}, it was determined that the patient was likely experiencing {diagnosis}\n"
+        f"and it was determined that the best course of action would be the following: {treatment_plan}.\n"
+        f"{initials} was provided with proper education and instructed to call the office with any issues.\n"
+        f"Patient was instructed to follow up with the office if any issues arise and to return to the office on {return_date} \n")
+
+print(note)
