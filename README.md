@@ -21,3 +21,7 @@ This project was created to replicate the game hangman. It uses the random libra
 ## medicalNoteTemplate
 
 This project was very similar to the footballMadlib project, but modified to match a real world use case - to help a medical provider write a patient note.
+
+## passwordGenerator
+
+This is a simple project using the random and string libraries to generate a password based on a certain number of characters given by the user.
