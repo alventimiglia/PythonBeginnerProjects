@@ -25,3 +25,7 @@ This project was very similar to the footballMadlib project, but modified to mat
 ## passwordGenerator
 
 This is a simple project using the random and string libraries to generate a password based on a certain number of characters given by the user.
+
+## rockPaperScissors
+
+This is a project using the random library to mimic a typical rock, paper, scissors game.
