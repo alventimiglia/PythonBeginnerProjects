@@ -26,6 +26,10 @@ This project was very similar to the footballMadlib project, but modified to mat
 
 This is a simple project using the random and string libraries to generate a password based on a certain number of characters given by the user.
 
+## secretNumberGame
+
+This project achieves the same outcome as guessNumberGame, but with slightly different methods. It was created in order to learn approaching a relatively simple task in different ways, seeing how various people can come up with unique solutions.
+
 ## rockPaperScissors
 
 This is a project using the random library to mimic a typical rock, paper, scissors game.
