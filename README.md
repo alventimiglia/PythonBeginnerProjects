@@ -26,6 +26,10 @@ This project was very similar to the footballMadlib project, but modified to mat
 
 This is a simple project using the random and string libraries to generate a password based on a certain number of characters given by the user.
 
+## quizGame
+
+This is a simple project working with the basic functionality of Python in order to create a user quiz.
+
 ## secretNumberGame
 
 This project achieves the same outcome as guessNumberGame, but with slightly different methods. It was created in order to learn approaching a relatively simple task in different ways, seeing how various people can come up with unique solutions.
